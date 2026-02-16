@@ -1,8 +1,4 @@
-<br clear="both">
-
-<div align="center">
-  <img height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ5eGlkcDB6eTl2dnY0dmNkMG0yY2luOGplMzlpZWkwcm5lOTdsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
-</div>
+<h2 align="center">Systems Engineer | Full Stack JavaScript Developer</h2>
 
 ###
 
@@ -17,16 +13,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="55" height="35" alt="twitch logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vidigaraiz.vidigaraiz&"  />
-</div>
-
-###
-
-<h2 align="center">Systems Engineer | Full Stack JavaScript Developer</h2>
 
 ###
 
@@ -72,12 +58,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vidigaraiz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vidigaraiz/vidigaraiz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vidigaraiz/vidigaraiz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vidigaraiz/vidigaraiz/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
